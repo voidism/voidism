@@ -6,6 +6,8 @@
 
 [[CV](https://people.csail.mit.edu/yungsung/files/CV.pdf)] [[Twitter](https://twitter.com/YungSungChuang)] [[Github](https://github.com/voidism)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=3ar1DOwAAAAJ)] [[DBLP](https://dblp.org/pers/hd/c/Chuang:Yung=Sung)] [[Blog](https://voidism.github.io/)] [[Linkedin](https://www.linkedin.com/in/yschuang)] [[Instagram](https://www.instagram.com/yungsung.chuang/)]
 
+[![my github stats](https://github-readme-stats.vercel.app/api?username=voidism)](https://github.com/voidism/)
+
 <!---
 voidism/voidism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
